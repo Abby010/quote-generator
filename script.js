@@ -160,6 +160,7 @@ function update(t) {
     ctx.stroke();
     
     window.requestAnimationFrame(update);
+    
 }
 
 function setupCanvas() {
